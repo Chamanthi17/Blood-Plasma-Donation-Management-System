@@ -80,3 +80,11 @@ The application was successfully deployed to an AWS EC2 instance using:
 
    phpMyAdmin (optional setup)
 
+---
+
+## 🙋‍♀️ Author
+
+**Chamanthi Pyneni**  
+
+This project helped me learn how to deploy a full-stack web application on AWS and strengthened my understanding of cloud-based hosting and access control.
+
