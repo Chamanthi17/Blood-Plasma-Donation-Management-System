@@ -2,7 +2,10 @@
 
 # 📌 Project Overview
 
-This is a web-based Blood and Plasma Donation Management System developed using **PHP**, **HTML**, **CSS**, **JavaScript**, and **MySQL**, and deployed on **AWS EC2**. The platform connects **donors**, **patients**, and **administrators** to make blood and plasma donation faster, more efficient, and reliable, especially in emergency situations and for rare blood types or COVID-19 plasma recovery cases.
+This is a full-stack web application built to streamline the process of **blood and plasma donation**. It helps users (patients) find suitable donors based on blood group and plasma availability, and enables admins to manage all donor and recipient data efficiently.
+
+This system was developed using **PHP, HTML, CSS, JavaScript, and MySQL**, and is deployed on an **AWS EC2 instance** for wider accessibility. It aims to reduce delays, increase accuracy, and improve emergency response in critical medical situations such as accidents, organ transplants, and COVID-19 recovery cases.
+
 
 ---
 
@@ -45,33 +48,35 @@ This is a web-based Blood and Plasma Donation Management System developed using 
 
 2. Start XAMPP or WAMP and run:
 
-Apache
+   Apache
 
-MySQL
+   MySQL
 
 3. Import the database:
 
-Go to http://localhost/phpmyadmin/
+   Go to http://localhost/phpmyadmin/
 
-Create a new database named blood_donation
+   Create a new database named blood_donation
 
-Import the file from sql/blood_donation_schema.sql
+   Import the file from sql/blood_donation_schema.sql
 
 4. Open your browser and run:
 
-http://localhost/blood-donation-system/index.php
+   http://localhost/blood-donation-system/index.php
 
-🌐 Deployment Info
+---
+
+## 🌐 Deployment Info
 
 The application was successfully deployed to an AWS EC2 instance using:
 
-Apache2
+   Apache2
 
-MySQL server
+   MySQL server
 
-PHP (LAMP stack)
+   PHP (LAMP stack)
 
-SSH, SFTP (PuTTY, WinSCP)
+   SSH, SFTP (PuTTY, WinSCP)
 
-phpMyAdmin (optional setup)
+   phpMyAdmin (optional setup)
 
