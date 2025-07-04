@@ -1,13 +1,11 @@
 # 🩸 Blood & Plasma Donation Management System
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 This is a full-stack web application built to streamline the process of **blood and plasma donation**. It helps users (patients) find suitable donors based on blood group and plasma availability, and enables admins to manage all donor and recipient data efficiently.
 
 This system was developed using **PHP, HTML, CSS, JavaScript, and MySQL**, and is deployed on an **AWS EC2 instance** for wider accessibility. It aims to reduce delays, increase accuracy, and improve emergency response in critical medical situations such as accidents, organ transplants, and COVID-19 recovery cases.
 
-
----
 
 ## 👨‍💻 Features
 
@@ -26,7 +24,7 @@ This system was developed using **PHP, HTML, CSS, JavaScript, and MySQL**, and i
 - Request donations
 - Track donation status
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -38,7 +36,7 @@ This system was developed using **PHP, HTML, CSS, JavaScript, and MySQL**, and i
 | Deployment     | AWS EC2                |
 | DB Management  | phpMyAdmin             |
 
----
+
 
 ## 🛠️ How to Run Locally
 
@@ -64,7 +62,6 @@ This system was developed using **PHP, HTML, CSS, JavaScript, and MySQL**, and i
 
    http://localhost/blood-donation-system/index.php
 
----
 
 ## 🌐 Deployment Info
 
@@ -80,7 +77,7 @@ The application was successfully deployed to an AWS EC2 instance using:
 
    phpMyAdmin (optional setup)
 
----
+
 
 ## 🙋‍♀️ Author
 
